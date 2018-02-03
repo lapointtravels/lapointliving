@@ -5,13 +5,13 @@
 	<div class="o-section o-section--hero">
 	  <div class="o-container o-container--large">
 	    <div class="c-navigation">
-	      <button class="c-navigation__menu-trigger"><img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-hamburger.svg" alt="Icon hamburger" /></button>
-	      <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/lapoint-living-logo@2x.png" class="c-navigation__logo" width="105" alt="Lapoint living logo@2x" />
+	      <button class="c-navigation__menu-trigger"><img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-hamburger.svg" alt="Icon hamburger" /></button>
+	      <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/lapoint-living-logo@2x.png" class="c-navigation__logo" width="105" alt="Lapoint living logo@2x" />
 	    </div>
 	  </div>
 	  <div class="o-container">
 	    <div class="c-hero">
-	      <img src="assets/images/icon-villa.svg" class="c-hero__icon" alt="Icon villa" />
+	      <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-villa.svg" class="c-hero__icon" alt="Icon villa" />
 	      <h1 class="c-hero__title">
 	        Garden Villa
 	        <span class="c-hero__subtitle">Ahangama, Sri Lanka</span>
@@ -35,39 +35,39 @@
 	<div class="o-section">
 	  <div class="c-media-grid">
 	    <div class="c-media-grid__cell c-media-grid__cell--media">
-	      <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/garden-villa-1.jpg" alt="Garden villa 1" />
+	      <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/garden-villa-1.jpg" alt="Garden villa 1" />
 	    </div>
 	    <div class="c-media-grid__cell">
 	      <h3>Services and facilities</h3>
 	      <ul class="o-flow-grid u-text-center">
 	        <li>
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-pool.svg" alt="Icon pool" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-pool.svg" alt="Icon pool" />
 	          <p class="u-text-sans-serif u-text-small">Pool</p>
 	        </li>
 	        <li>
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-wifi.svg" alt="Icon wifi" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-wifi.svg" alt="Icon wifi" />
 	          <p class="u-text-sans-serif u-text-small">Wifi</p>
 	        </li>
 	        <li>
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-cleaning.svg" alt="Icon cleaning" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-cleaning.svg" alt="Icon cleaning" />
 	          <p class="u-text-sans-serif u-text-small">Daily cleaning</p>
 	        </li>
 	        <li>
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-yoga.svg" alt="Icon yoga" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-yoga.svg" alt="Icon yoga" />
 	          <p class="u-text-sans-serif u-text-small">Yoga area</p>
 	        </li>
 	        <li>
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-bar.svg" alt="Icon bar" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-bar.svg" alt="Icon bar" />
 	          <p class="u-text-sans-serif u-text-small">Bar</p>
 	        </li>
 	        <li>
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-volleyball.svg" alt="Icon volleyball" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-volleyball.svg" alt="Icon volleyball" />
 	          <p class="u-text-sans-serif u-text-small">Volleyball court</p>
 	        </li>
 	      </ul>
 	    </div>
 	    <div class="c-media-grid__cell c-media-grid__cell--media">
-	      <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/garden-villa-2.jpg" alt="Garden villa 2" />
+	      <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/garden-villa-2.jpg" alt="Garden villa 2" />
 	    </div>
 	    <div class="c-media-grid__cell">
 	      <h3>Camp facts</h3>
@@ -131,7 +131,7 @@
 	        </ul>
 	      </div>
 	      <div class="o-room-grid__cell">
-	        <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/dorm-room.jpg" alt="Dorm room" />
+	        <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/dorm-room.jpg" alt="Dorm room" />
 	      </div>
 	    </div>
 	  </div>
@@ -144,7 +144,7 @@
 	    <p class="u-margin-top">Sri Lanka is an island southeast of India and is a tropical paradise with world class waves. Here you’ll get surf courses in idyllic surroundings with beautiful nature, yoga, chill vibe and great waves. ‘Lanka is home to mile long beaches, a tropical climate and many exciting places to visit. Together with a great cuisine and amazing surf Sri Lanka offers an ocean of possibilities for all types of explorers and surfers.</p>
 	  </div>
 	  <div class="c-band">
-	    <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/ahangama.jpg" alt="Ahangama" />
+	    <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/ahangama.jpg" alt="Ahangama" />
 	  </div>
 	  <div class="o-container">
 	    <h3>Ahangama</h3>
@@ -158,7 +158,7 @@
 	    <ul class="c-banner-list">
 	      <li class="c-banner-list__item">
 	        <div>
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/activities-surfing.jpg" class="c-banner-list__item-bg" alt="Activities surfing" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/activities-surfing.jpg" class="c-banner-list__item-bg" alt="Activities surfing" />
 	          <h3>Surfing</h3>
 	          <p>We want to share the stoke with you when you catch your first wave or your first barrel.</p>
 	        </div>
@@ -185,7 +185,7 @@
 	      </li>
 	      <li class="c-banner-list__item">
 	        <div>
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/activities-supy.jpg" class="c-banner-list__item-bg" alt="Activities supy" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/activities-supy.jpg" class="c-banner-list__item-bg" alt="Activities supy" />
 	          <h3>Stand up paddle yoga</h3>
 	          <p>Experience a new element of core strength, intense focus combined with sun, refreshing water and beautiful nature.</p>
 	          <a href="#" class="c-button c-button--hollow">Read more</a>
@@ -193,7 +193,7 @@
 	      </li>
 	      <li class="c-banner-list__item">
 	        <div>
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/activities-safari.jpg" class="c-banner-list__item-bg" alt="Activities safari" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/activities-safari.jpg" class="c-banner-list__item-bg" alt="Activities safari" />
 	          <h3>Safari</h3>
 	          <p>Lorem ipsum dolor sit amet.</p>
 	          <a href="#" class="c-button c-button--hollow">Read more</a>
@@ -201,7 +201,7 @@
 	      </li>
 	      <li class="c-banner-list__item">
 	        <div>
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/activities-plantage.jpg" class="c-banner-list__item-bg" alt="Activities plantage" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/activities-plantage.jpg" class="c-banner-list__item-bg" alt="Activities plantage" />
 	          <h3>Tea planatations</h3>
 	          <p>Lorem ipsum dolor sit amet.</p>
 	          <a href="#" class="c-button c-button--hollow">Read more</a>
@@ -216,7 +216,7 @@
 	    <h2 class="u-section-header--inverted">Book your stay</h2>
 	    <div class="c-flex-block c-flex-block--white">
 	      <div class="c-flex-block__cell">
-	        <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-villa--red.svg" alt="Icon villa  red" />
+	        <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-villa--red.svg" alt="Icon villa  red" />
 	        <h3 class="u-margin-top">Garden Villa</h3>
 	        <p class="u-text-sans-serif u-text-small">Ahangama, Sri Lanka</p>
 	      </div>
@@ -251,7 +251,7 @@
 	      <li class="c-booking-list__row c-booking-list__row--header">January 2018</li>
 	      <li class="c-booking-list__row">
 	        <div class="c-booking-list__cell">
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-calendar.svg" class="c-booking-list__icon" alt="Icon calendar" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-calendar.svg" class="c-booking-list__icon" alt="Icon calendar" />
 	          <span class="c-booking-list__date">Jan 15 – Jan 22</span>
 	        </div>
 	        <div class="c-booking-list__cell">
@@ -269,7 +269,7 @@
 	      </li>
 	      <li class="c-booking-list__row">
 	        <div class="c-booking-list__cell">
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-calendar.svg" class="c-booking-list__icon" alt="Icon calendar" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-calendar.svg" class="c-booking-list__icon" alt="Icon calendar" />
 	          <span class="c-booking-list__date">Jan 22 – Jan 29</span>
 	        </div>
 	        <div class="c-booking-list__cell">
@@ -287,7 +287,7 @@
 	      </li>
 	      <li class="c-booking-list__row">
 	        <div class="c-booking-list__cell">
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-calendar.svg" class="c-booking-list__icon" alt="Icon calendar" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-calendar.svg" class="c-booking-list__icon" alt="Icon calendar" />
 	          <span class="c-booking-list__date">Jan 29 – Feb 5</span>
 	        </div>
 	        <div class="c-booking-list__cell">
@@ -306,7 +306,7 @@
 	      <li class="c-booking-list__row c-booking-list__row--header">February 2018</li>
 	      <li class="c-booking-list__row">
 	        <div class="c-booking-list__cell">
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-calendar.svg" class="c-booking-list__icon" alt="Icon calendar" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-calendar.svg" class="c-booking-list__icon" alt="Icon calendar" />
 	          <span class="c-booking-list__date">Feb 5 – Feb 12</span>
 	        </div>
 	        <div class="c-booking-list__cell">
@@ -324,7 +324,7 @@
 	      </li>
 	      <li class="c-booking-list__row">
 	        <div class="c-booking-list__cell">
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-calendar.svg" class="c-booking-list__icon" alt="Icon calendar" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-calendar.svg" class="c-booking-list__icon" alt="Icon calendar" />
 	          <span class="c-booking-list__date">Feb 12 – Feb 19</span>
 	        </div>
 	        <div class="c-booking-list__cell">
@@ -342,7 +342,7 @@
 	      </li>
 	      <li class="c-booking-list__row">
 	        <div class="c-booking-list__cell">
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-calendar.svg" class="c-booking-list__icon" alt="Icon calendar" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-calendar.svg" class="c-booking-list__icon" alt="Icon calendar" />
 	          <span class="c-booking-list__date">Feb 19 – Feb 26</span>
 	        </div>
 	        <div class="c-booking-list__cell">
@@ -360,7 +360,7 @@
 	      </li>
 	      <li class="c-booking-list__row">
 	        <div class="c-booking-list__cell">
-	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/images/icon-calendar.svg" class="c-booking-list__icon" alt="Icon calendar" />
+	          <img src="<?php echo get_bloginfo( 'template_directory' );?>/assets/icon-calendar.svg" class="c-booking-list__icon" alt="Icon calendar" />
 	          <span class="c-booking-list__date">Feb 26 – March 2</span>
 	        </div>
 	        <div class="c-booking-list__cell">
